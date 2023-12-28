@@ -1,2 +1,15 @@
 # s21ChristmasTree
-a little project for advent calendar
+
+Простое приложение с помощью которого можно нарядить ёлку :)
+
+Можно выбрать одну из трёх игрушек, задать ей цвет, либо оставить слот для игрушки пустым.
+
+![](readme_img/1.png)
+
+![](readme_img/2.png)
+
+![](readme_img/3.png)
+
+![](readme_img/4.png)
+
+![](readme_img/5.png)
